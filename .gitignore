@@ -1,0 +1,17 @@
+
+# Резервные копии и временные файлы
+*backup*.ipynb
+.ipynb_checkpoints/
+__pycache__/
+
+# Промежуточные данные
+data/processed/
+
+# Архивы исходных данных
+data/raw/*.zip
+
+# Неиспользуемые данные
+data/raw/2021Census_G38_AUST_SA2.csv
+data/raw/14100DO0003_2011-25.xlsx
+data/raw/2021_GCP_all_for_AUS_short-header/
+data/raw/2021_WPP_AUS_for_AUS_short-header/
